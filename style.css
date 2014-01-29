@@ -1,0 +1,80 @@
+body{
+	background-color:rgb(240,151,10);
+	padding-bottom: 13px;
+	width: 90%; 
+    margin: 0 auto;
+    font-family: Verdana, Sans-serif;
+}
+#container{
+	background-color: rgb(242,220,171);
+	width:80%;
+	margin: 0 auto;
+	text-align: left;
+	position: center;
+	padding-bottom:25px;
+}
+#menu-bar{
+	background-color:rgb(224,134,43);
+	width:100%;
+	height:60px;
+	font-family: Verdana,Helvetica,Sans-serif;
+	text-decoration:none;
+	padding-top: 1px;
+	text-align:center;
+}
+.menu-items{
+	text-align: center;
+	padding-left:37px;
+	padding-right:37px;
+	padding-top: 25px;
+	display:inline;
+	font-family:Verdana, Helvetica, Arial, Sans-serif;
+	font-size:20px;
+	position: center;
+}
+#menu-ul{
+	list-style:none;
+	font-weight: bold;
+	text-align:center;
+}
+#labpicdesc{
+	text-align:center;
+}
+img#labpic{
+	width:60%;
+	display: block;
+    	margin: 0 auto;
+	border:10px solid black;
+	
+}
+#contact-info{
+	margin-left: 80px;
+}
+#footer{
+	text-align: center;
+}
+img.me{
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+p,h1,h3{
+	width:90%;
+	margin-left: auto;
+	margin-right:auto;
+}
+table{
+	text-align: center;
+	position: center;
+}
+a:link{
+	text-decoration:none;
+	color:rgb(84,37,2);
+}
+a:hover{
+	color:rgb(244,32,37);
+}
+
+
+
+
